@@ -1,6 +1,7 @@
 # Stenography
 
-Secure Data Hiding in Images Using Steganography
+Title:Secure Data Hiding in Images Using Steganography
+
 Project Overview:
 This project demonstrates the use of steganography to securely hide a secret message within an image. It allows users to encode and decode messages using image pixels. The project also incorporates a password protection feature for added security.
 
