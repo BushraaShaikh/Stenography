@@ -42,7 +42,7 @@ Enter your passcode: 123
 Enter passcode for decryption: 123
 Decrypted message: Hello Everyone
 
-Contributor
+Contributor:
 Bushraa Shaikh
 
 
